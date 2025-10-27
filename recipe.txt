@@ -1,2 +1,3 @@
 Chocolate Chip Cookies
 Ingredients: flour, sugar, eggs
+Instructions: Mix ingredients, bake 350°F for 12 minutes
